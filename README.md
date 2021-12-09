@@ -1,4 +1,3 @@
-# Stang Connect Privacy Policy
 ### PRIVACY NOTICE
 
 **Last updated December 08, 2021**
