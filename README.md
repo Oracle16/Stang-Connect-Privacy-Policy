@@ -27,13 +27,12 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 6. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 7. DO WE MAKE UPDATES TO THIS NOTICE?
 8. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-9. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
 ### Personal information you disclose to us
 
-In Short:  We collect personal information that you provide to us.
+*In Short:  We collect personal information that you provide to us.*
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the App or otherwise when you contact us.
 
@@ -58,15 +57,15 @@ This information is primarily needed to maintain the security and operation of o
 
 We may process or share your data that we hold based on the following legal basis:
 
-***Consent:** We may process your data if you have given us specific consent to use your personal information for a specific purpose.
-* Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
-***Performance of a Contract:** Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
-***Legal Obligations:** We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
-***Vital Interests:** We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+**Consent:** We may process your data if you have given us specific consent to use your personal information for a specific purpose.
+* **Legitimate Interests:** We may process your data when it is reasonably necessary to achieve our legitimate business interests.
+* **Performance of a Contract:** Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
+* **Legal Obligations:** We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+* **Vital Interests:** We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
 More specifically, we may need to process your data or share your personal information in the following situations:
 
-***Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+* **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 ## 3. HOW LONG DO WE KEEP YOUR INFORMATION?
 
@@ -106,11 +105,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at stangmobcalendar@gmail.com or by post to:
 
-Monte Vista High School
-3131 Stone Valley Road
-Danville, CA 94526
+Monte Vista High School <br>
+3131 Stone Valley Road <br>
+Danville, CA 94526 <br>
 United States
-
-## 9. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
-
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, you may email us at stangmobcalendar@gmail.com.
